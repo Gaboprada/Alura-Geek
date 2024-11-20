@@ -1,0 +1,20 @@
+{
+    "Productos": [
+      {
+        "id": 1,
+        "titulo": "Game Boy Clasic",
+        "descripcion": "30 Vendidos",
+        "imagen": ""
+      },
+      {
+        "id": 2,
+        "titulo": "Stormtrooper",
+        "descripcion": "3 mil visualizaciones",
+        "imagen": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+      }
+    ]
+}
+
+
+    
+  
